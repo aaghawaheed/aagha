@@ -11,6 +11,13 @@ I'm a **Full-Stack Developer** specializing in **scalable** and **stable multi-n
 ### Languages & Platforms
 - **Python**, **JavaScript**, **Node.js**, **PHP**, **Oracle NetSuite**, **Dell Boomi**
 
+### Integration Expertise
+- **Dell Boomi** for building complex, scalable integrations.
+- Extensive experience connecting **Salesforce**, **Shopify**, **WooCommerce**, **Outlook**, **FilmTrack**, and **Microsoft NAV**.
+- Proficient with **FarApp** (Oracle NetSuite's Connector) for seamless data synchronization.
+- Experienced in building **Custom Connectors** tailored to unique business needs.
+- Strong experience in data synchronization and workflow automation across multiple systems.
+
 ### NetSuite Development
 - SuiteScript 1.0, 2.0, 2.1 (Suitelets, RESTlets, Portlets, Client Scripts, User Event Scripts, Map/Reduce Scripts, Mass Update Scripts, Scheduled Scripts)
 - Saved Searches, Advanced PDF/HTML Templates
@@ -29,6 +36,10 @@ I'm a **Full-Stack Developer** specializing in **scalable** and **stable multi-n
 
 ### Cloud & Infrastructure
 - **AWS (EC2, S3, RDS)**
+- **OpenStack** – Experienced in deploying scalable and distributed environments.
+- **Google Cloud Platform (GCP)** – Expertise in serverless computing, cloud storage, and scalable computing environments.
+- **Terraform** – Infrastructure as Code (IaC) expertise for automated provisioning and management.
+- **Ansible** – Extensive knowledge of configuration management, automation, and deployment solutions.
 
 ### Version Control
 - **Git**, **GitFlow**, **GitHub Flow**, **SVN**
